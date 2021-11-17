@@ -1,3 +1,10 @@
+Este serviço gera o seguinte endpoint (no BTP do Eric):
+https://1be93193trial-dev-v1b-srv.cfapps.us10.hana.ondemand.com/
+
+Um processo de CPI irá levar os registros deste ponto a este outro (no RAP da Numen):
+https://demo.local.numenit.com:44301/sap/opu/odata/sap/ZSB_RAP_MATERIAL/?sap-client=100
+
+
 # Getting Started
 
 Welcome to your new project.
